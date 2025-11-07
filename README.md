@@ -1,16 +1,22 @@
-## Hi there 👋
+# SANAZAZIMI
+# Hallo! 👋 Ich bin Sanaz
 
-<!--
-**saaniisaan/saaniisaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Über mich**  
+Ich bin eine leidenschaftliche Softwareentwicklerin mit Erfahrung in Python und JavaScript. Ich liebe es, Projekte zu erstellen, die echte Probleme lösen, und mich ständig weiterzubilden.
 
-Here are some ideas to get you started:
+🌱 **Derzeit am Lernen**  
+React, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Fähigkeiten**  
+- Programmierung: Python | JavaScript  
+- Frameworks: React | Django | Flask  
+- Tools: Git | Docker | VS Code
+
+📈 **GitHub Statistiken**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAANIISAAN&show_icons=true&theme=radical)
+
+🏆 **Trophäen**  
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SAANIISAAN&theme=radical)
+
+📫 **Kontakt**  
+LinkedIn: [linkedin.com/in/saaniisaan](https://www.linkedin.com/in/saaniisaan)
